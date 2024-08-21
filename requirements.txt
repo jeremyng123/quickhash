@@ -1,0 +1,8 @@
+altgraph==0.17.4
+packaging==24.1
+pefile==2023.2.7
+py-tlsh==4.7.2
+pynput==1.7.7
+pyperclip==1.9.0
+pywin32-ctypes==0.2.3
+six==1.16.0
